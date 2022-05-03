@@ -1,0 +1,15 @@
+site_name: Axemoor
+
+nav:
+        - 'Email':
+                - "Access Your Officer Email" : "access.md"
+                - "Send Email From Your Officer Email Address": "send.md"
+                - "Change Officer Email Settings": "change.md"
+        - 'Wordpress':
+                - "Add Meeting Minutes": "minutes.md"
+                - "Add A Newsletter": "newsletter.md"
+                - "Edit Officers Information": "officers.md"
+                - "Edit Activities": "activity.md"
+        - 'Contribute':
+                - "For Those Less Tech Savvy": "easy.md"
+                - "For Those More Tech Savvy": "difficult.md"
